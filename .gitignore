@@ -8,6 +8,7 @@ __pycache__/
 
 # Annoying mac file
 .DS_Store
+notebook_draft3.txt
 
 # Distribution / packaging
 .Python
